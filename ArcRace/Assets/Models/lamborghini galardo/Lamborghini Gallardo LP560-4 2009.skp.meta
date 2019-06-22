@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: 55e8b2b010601ef46b0e5b0ab793d931
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: f66175fcedae3a5300440b35857075af
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -8.786734, y: 1.1045386, z: -1.823849}
+      lookAt: {x: 14.66352, y: 1.1045386, z: 5.4057055}
+      up: {x: 1.0266444e-18, y: 1, z: -3.3300904e-18}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 3D_Object_#1
+    100002: 3D_Object_#10
+    100004: 3D_Object_#10 1
+    100006: 3D_Object_#13
+    100008: 3D_Object_#15
+    100010: 3D_Object_#15 1
+    100012: 3D_Object_#15 2
+    100014: 3D_Object_#15 3
+    100016: 3D_Object_#3
+    100018: 3D_Object_#5
+    100020: 3D_Object_#7
+    100022: 3D_Object_#8
+    100024: 3D_Object_#8_MeshPart0
+    100026: 3D_Object_#8_MeshPart1
+    100028: Component#1
+    100030: Component#1 1
+    100032: engine
+    100034: freno
+    100036: freno 1
+    100038: freno 2
+    100040: freno 3
+    100042: Group 1
+    100044: Group 101
+    100046: Group 103
+    100048: Group 11
+    100050: Group 13
+    100052: Group 15
+    100054: Group 17
+    100056: Group 19
+    100058: Group 2
+    100060: Group 21
+    100062: Group 24
+    100064: Group 27
+    100066: Group 29
+    100068: Group 31
+    100070: Group 33
+    100072: Group 35
+    100074: Group 37
+    100076: Group 41
+    100078: Group 47
+    100080: Group 50
+    100082: Group 52
+    100084: Group 54
+    100086: Group 56
+    100088: Group 58
+    100090: Group 60
+    100092: Group 63
+    100094: Group 66
+    100096: Group 68
+    100098: Group 70
+    100100: Group 72
+    100102: Group 74
+    100104: Group 76
+    100106: Group 8
+    100108: Group 96
+    100110: Group 97
+    100112: Group 99
+    100114: Lamborghini
+    100116: Lamborghini 1
+    100118: //RootNode
+    100120: pinza
+    100122: pinza 1
+    100124: pinza 2
+    100126: pinza 3
+    400000: 3D_Object_#1
+    400002: 3D_Object_#10
+    400004: 3D_Object_#10 1
+    400006: 3D_Object_#13
+    400008: 3D_Object_#15
+    400010: 3D_Object_#15 1
+    400012: 3D_Object_#15 2
+    400014: 3D_Object_#15 3
+    400016: 3D_Object_#3
+    400018: 3D_Object_#5
+    400020: 3D_Object_#7
+    400022: 3D_Object_#8
+    400024: 3D_Object_#8_MeshPart0
+    400026: 3D_Object_#8_MeshPart1
+    400028: Component#1
+    400030: Component#1 1
+    400032: engine
+    400034: freno
+    400036: freno 1
+    400038: freno 2
+    400040: freno 3
+    400042: Group 1
+    400044: Group 101
+    400046: Group 103
+    400048: Group 11
+    400050: Group 13
+    400052: Group 15
+    400054: Group 17
+    400056: Group 19
+    400058: Group 2
+    400060: Group 21
+    400062: Group 24
+    400064: Group 27
+    400066: Group 29
+    400068: Group 31
+    400070: Group 33
+    400072: Group 35
+    400074: Group 37
+    400076: Group 41
+    400078: Group 47
+    400080: Group 50
+    400082: Group 52
+    400084: Group 54
+    400086: Group 56
+    400088: Group 58
+    400090: Group 60
+    400092: Group 63
+    400094: Group 66
+    400096: Group 68
+    400098: Group 70
+    400100: Group 72
+    400102: Group 74
+    400104: Group 76
+    400106: Group 8
+    400108: Group 96
+    400110: Group 97
+    400112: Group 99
+    400114: Lamborghini
+    400116: Lamborghini 1
+    400118: //RootNode
+    400120: pinza
+    400122: pinza 1
+    400124: pinza 2
+    400126: pinza 3
+    2300000: 3D_Object_#1
+    2300002: 3D_Object_#10
+    2300004: 3D_Object_#10 1
+    2300006: 3D_Object_#13
+    2300008: 3D_Object_#15
+    2300010: 3D_Object_#15 1
+    2300012: 3D_Object_#15 2
+    2300014: 3D_Object_#15 3
+    2300016: 3D_Object_#3
+    2300018: 3D_Object_#5
+    2300020: 3D_Object_#7
+    2300022: 3D_Object_#8_MeshPart0
+    2300024: 3D_Object_#8_MeshPart1
+    2300026: Component#1
+    2300028: Component#1 1
+    2300030: engine
+    2300032: Group 101
+    2300034: Group 103
+    2300036: Group 11
+    2300038: Group 13
+    2300040: Group 15
+    2300042: Group 17
+    2300044: Group 19
+    2300046: Group 21
+    2300048: Group 24
+    2300050: Group 27
+    2300052: Group 29
+    2300054: Group 31
+    2300056: Group 33
+    2300058: Group 35
+    2300060: Group 37
+    2300062: Group 47
+    2300064: Group 50
+    2300066: Group 52
+    2300068: Group 54
+    2300070: Group 56
+    2300072: Group 58
+    2300074: Group 60
+    2300076: Group 63
+    2300078: Group 66
+    2300080: Group 68
+    2300082: Group 70
+    2300084: Group 72
+    2300086: Group 74
+    2300088: Group 76
+    2300090: Group 8
+    2300092: Group 97
+    2300094: Group 99
+    2300096: Lamborghini
+    2300098: Lamborghini 1
+    3300000: 3D_Object_#1
+    3300002: 3D_Object_#10
+    3300004: 3D_Object_#10 1
+    3300006: 3D_Object_#13
+    3300008: 3D_Object_#15
+    3300010: 3D_Object_#15 1
+    3300012: 3D_Object_#15 2
+    3300014: 3D_Object_#15 3
+    3300016: 3D_Object_#3
+    3300018: 3D_Object_#5
+    3300020: 3D_Object_#7
+    3300022: 3D_Object_#8_MeshPart0
+    3300024: 3D_Object_#8_MeshPart1
+    3300026: Component#1
+    3300028: Component#1 1
+    3300030: engine
+    3300032: Group 101
+    3300034: Group 103
+    3300036: Group 11
+    3300038: Group 13
+    3300040: Group 15
+    3300042: Group 17
+    3300044: Group 19
+    3300046: Group 21
+    3300048: Group 24
+    3300050: Group 27
+    3300052: Group 29
+    3300054: Group 31
+    3300056: Group 33
+    3300058: Group 35
+    3300060: Group 37
+    3300062: Group 47
+    3300064: Group 50
+    3300066: Group 52
+    3300068: Group 54
+    3300070: Group 56
+    3300072: Group 58
+    3300074: Group 60
+    3300076: Group 63
+    3300078: Group 66
+    3300080: Group 68
+    3300082: Group 70
+    3300084: Group 72
+    3300086: Group 74
+    3300088: Group 76
+    3300090: Group 8
+    3300092: Group 97
+    3300094: Group 99
+    3300096: Lamborghini
+    3300098: Lamborghini 1
+    4300000: Mesh 3D_Object_#15
+    4300002: Mesh Group 8
+    4300004: Mesh Group 11
+    4300006: Mesh Group 13
+    4300008: Mesh Group 15
+    4300010: Mesh Group 17
+    4300012: Mesh Group 19
+    4300014: Mesh Group 21
+    4300016: Mesh Component#1
+    4300018: Mesh 3D_Object_#7
+    4300020: Mesh 3D_Object_#8_MeshPart0
+    4300022: Mesh 3D_Object_#8_MeshPart1
+    4300024: Mesh engine
+    4300026: Mesh Lamborghini
+    4300028: Mesh 3D_Object_#10
+    4300030: Mesh 3D_Object_#13
+    4300032: Mesh 3D_Object_#1
+    4300034: Mesh Group 97
+    4300036: Mesh Group 99
+    4300038: Mesh Group 101
+    4300040: Mesh Group 103
+    4300042: Mesh 3D_Object_#3
+    4300044: Mesh 3D_Object_#5
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body Color
+    second: {fileID: 2100000, guid: 142b8bd94ab02cc46b9347e2bf44da66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon Fiber
+    second: {fileID: 2100000, guid: 72b824a2ded2b1e479a0303e0f01191c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon Texture
+    second: {fileID: 2100000, guid: 6921a60dc0f456f40b2929780c262c20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet
+    second: {fileID: 2100000, guid: 4cbb3f53ce7b7d84d9ff5f67f4a28550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome 02
+    second: {fileID: 2100000, guid: 44614cf6bd2c20f498c63aa1c1bf6047, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grill TILED
+    second: {fileID: 2100000, guid: 6c01c43a0661cb743af50ff9d496266c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grills
+    second: {fileID: 2100000, guid: 9786d34c8c8d7f540b65356a02bc6e9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior 1
+    second: {fileID: 2100000, guid: 587c75e9b0fe4564f803c24e0999ac42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LCD Screen
+    second: {fileID: 2100000, guid: d5ef6ca3088df284dbcf63ab8b89e153, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamborghinilogo
+    second: {fileID: 2100000, guid: 6bf5e133151440648b0de0093f817a84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather 1
+    second: {fileID: 2100000, guid: e3cc0e744daa8b740b99f45b70ef8d41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather 2
+    second: {fileID: 2100000, guid: 3e135b0cb0aa8814ea8246cda9b35651, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tires
+    second: {fileID: 2100000, guid: 169661d69fce10643bf3ea6cba619b7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turn Signals
+    second: {fileID: 2100000, guid: 1bde974b3107e4f48aeaf065f20fee96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0021_DarkRed]'
+    second: {fileID: 2100000, guid: e8801f7c55bfb0743b287bbe9f9e543c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0045_Goldenrod]'
+    second: {fileID: 2100000, guid: 8ebae85ffac900743a32c352d3473621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0091_MintCream]'
+    second: {fileID: 2100000, guid: bc508b38d6303b94bbf3db0be7ada435, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0093_AliceBlue]'
+    second: {fileID: 2100000, guid: cd018f9bf724b6143afedc85ceb11c4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0130_Gainsboro]'
+    second: {fileID: 2100000, guid: 20cc7908b9b6e3943a52a121cd5dc850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0131_Silver]'
+    second: {fileID: 2100000, guid: 96b9a07bb7bfea049838dda0d0c4c451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0132_LightGray]'
+    second: {fileID: 2100000, guid: 4633b65ed063a07469b044461735ad3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0133_Gray]'
+    second: {fileID: 2100000, guid: ce82c79ad95c5104fbcf6cdeb2d12e32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0134_DimGray]'
+    second: {fileID: 2100000, guid: 368ed253216013f46b6886b045d358ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0135_DarkGray]'
+    second: {fileID: 2100000, guid: e111e7a77661eda40bd8b8a6811fc51a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0136_Charcoal]'
+    second: {fileID: 2100000, guid: fb5ddd2f6aa9d7b48887a7c9261b7375, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0137_Black]'
+    second: {fileID: 2100000, guid: f251a11ac245f9c458b4af6cfb77f0f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_A01]'
+    second: {fileID: 2100000, guid: 13f842c9c1584cd41bab5fddeb59417e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_A11]'
+    second: {fileID: 2100000, guid: 68cf0e57c00c8d447a93af0c8531024d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Metal_Corrogated_Shiny]'
+    second: {fileID: 2100000, guid: 96bb2bf546130b649b144961f49a43b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Gray]'
+    second: {fileID: 2100000, guid: f370d8babbab7744fb583ca0a0bd0064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Black_
+    second: {fileID: 2100000, guid: 55776a2680a44254792f94797f62361d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Burnt Umber_1
+    second: {fileID: 2100000, guid: 8811c749d23593f4ab917ae8ca988750, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Charcoal_
+    second: {fileID: 2100000, guid: 48bb8133ca907c34299df6298bdac540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: b9fd226516cc8fe4198f4653aa1a21a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: remap_lp560 [pr1
+    second: {fileID: 2100000, guid: 1e7da5461d3e54c449f848f913a130c9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

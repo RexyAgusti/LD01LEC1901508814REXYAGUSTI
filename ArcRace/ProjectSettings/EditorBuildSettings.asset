@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 44424be1e16b34d4fa99aa05266e7080
+  - enabled: 1
+    path: Assets/Scenes/SelectMap.unity
+    guid: d4755683084b66f4fa38bd6f0f15f40e
+  - enabled: 1
+    path: Assets/Scenes/ChooseCar1Junggle.unity
+    guid: 21b500e013668d24582a6d16ae9d37d5
+  - enabled: 1
+    path: Assets/Scenes/ChooseCar1Map2.unity
+    guid: 733c200c85448924b9ee43fce6aac7fa
+  - enabled: 1
+    path: Assets/Scenes/ChooseCar1Map3.unity
+    guid: 5bae2226993c3594c9c950ac1f709f2e
+  - enabled: 1
+    path: Assets/Scenes/ChooseCar1Map4.unity
+    guid: 42835f409df4ca94f87147d0dd09b45d
+  - enabled: 1
+    path: Assets/Scenes/ChooseCar2Junggle.unity
+    guid: fc1b81441674811478d746bcc6e9b8fd
+  - enabled: 1
+    path: Assets/Scenes/ChooseCar2Map2.unity
+    guid: 698689cacc9b0cb4c80b6449b125bda4
+  - enabled: 1
+    path: Assets/Scenes/ChooseCar2Map3.unity
+    guid: 47ed0c2a44534854480c4fc3a8a134f9
+  - enabled: 1
+    path: Assets/Scenes/ChooseCar3Junggle.unity
+    guid: 6682fd2170f5aa3408cb1f3d5bd639b8
+  - enabled: 1
+    path: Assets/Scenes/ChooseCar3Map2.unity
+    guid: 10a40f23e0692d2469b8c4e5d9abfd8d
+  - enabled: 1
+    path: Assets/Scenes/ChooseCar3Map3.unity
+    guid: 41c5200da39a12c4e902a02abb20c5e7
+  - enabled: 1
+    path: Assets/Scenes/Map1type1.unity
+    guid: 8fddb0abe8990e9409fed22e1fbb56b8
+  - enabled: 1
+    path: Assets/Scenes/Map1type2.unity
+    guid: 7792424a7a3429f4d80c8d76d4e96bdd
+  - enabled: 1
+    path: Assets/Scenes/Map1type3.unity
+    guid: d08ebc74312e0b94fb59524cb1105fbc
+  - enabled: 1
+    path: Assets/Scenes/Map2type1.unity
+    guid: edf2a949dcde56241aa0e1776fc7eda9
+  - enabled: 1
+    path: Assets/Scenes/Map2type2.unity
+    guid: 8199a6808959a084184b31333c6abecb
+  - enabled: 1
+    path: Assets/Scenes/Map2type3.unity
+    guid: 0abf7ef355827a846845a6505024d6fa
+  - enabled: 1
+    path: Assets/Scenes/Map3type1.unity
+    guid: 2884307b165e6e843a6021ef3d432c19
+  - enabled: 1
+    path: Assets/Scenes/Map3type2.unity
+    guid: f3133b65334b2af4788e885cd1571243
+  - enabled: 1
+    path: Assets/Scenes/Map3type3.unity
+    guid: 5a9371ed608e842409af9d981dbff334
+  - enabled: 1
+    path: Assets/Scenes/Map4type1.unity
+    guid: e1e18fbc384d6d849b624211d534e4ba
+  m_configObjects: {}

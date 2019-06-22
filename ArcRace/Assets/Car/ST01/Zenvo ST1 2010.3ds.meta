@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: e8e98fcc5efb8a540a279bd561a7bd9c
+timeCreated: 1508331922
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: 1111_001
+    100002: Body_001
+    100004: bonnet_ok_
+    100006: boot_ok_00
+    100008: bump_fro01
+    100010: bump_fro02
+    100012: bump_rea01
+    100014: chassis_00
+    100016: D#1_001
+    100018: door_lf_ok
+    100020: door_rf_ok
+    100022: dvorleft_0
+    100024: dvorright_
+    100026: Front Sea0
+    100028: Front Seat
+    100030: glass_001
+    100032: Group_001
+    100034: Group_004
+    100036: Group_006
+    100038: Group_009
+    100040: Group_011
+    100042: Group_014
+    100044: Group_016
+    100046: Group_019
+    100048: Hand Brake
+    100050: Plate 049_
+    100052: Shift Boot
+    100054: Shift Knob
+    100056: ST1_1_001
+    100058: ST1_2_001
+    100060: ST_001
+    100062: Steering 0
+    100064: Steering W
+    100066: wheel_sr10
+    100068: wheel_sr1_
+    100070: wheel_sr20
+    100072: wheel_sr2_
+    100074: windscre01
+    100076: Z#1_001
+    100078: //RootNode
+    400000: 1111_001
+    400002: Body_001
+    400004: bonnet_ok_
+    400006: boot_ok_00
+    400008: bump_fro01
+    400010: bump_fro02
+    400012: bump_rea01
+    400014: chassis_00
+    400016: D#1_001
+    400018: door_lf_ok
+    400020: door_rf_ok
+    400022: dvorleft_0
+    400024: dvorright_
+    400026: Front Sea0
+    400028: Front Seat
+    400030: glass_001
+    400032: Group_001
+    400034: Group_004
+    400036: Group_006
+    400038: Group_009
+    400040: Group_011
+    400042: Group_014
+    400044: Group_016
+    400046: Group_019
+    400048: Hand Brake
+    400050: Plate 049_
+    400052: Shift Boot
+    400054: Shift Knob
+    400056: ST1_1_001
+    400058: ST1_2_001
+    400060: ST_001
+    400062: Steering 0
+    400064: Steering W
+    400066: wheel_sr10
+    400068: wheel_sr1_
+    400070: wheel_sr20
+    400072: wheel_sr2_
+    400074: windscre01
+    400076: Z#1_001
+    400078: //RootNode
+    2300000: 1111_001
+    2300002: Body_001
+    2300004: bonnet_ok_
+    2300006: boot_ok_00
+    2300008: bump_fro01
+    2300010: bump_fro02
+    2300012: bump_rea01
+    2300014: chassis_00
+    2300016: D#1_001
+    2300018: door_lf_ok
+    2300020: door_rf_ok
+    2300022: dvorleft_0
+    2300024: dvorright_
+    2300026: Front Sea0
+    2300028: Front Seat
+    2300030: glass_001
+    2300032: Group_001
+    2300034: Group_004
+    2300036: Group_006
+    2300038: Group_009
+    2300040: Group_011
+    2300042: Group_014
+    2300044: Group_016
+    2300046: Group_019
+    2300048: Hand Brake
+    2300050: Plate 049_
+    2300052: Shift Boot
+    2300054: Shift Knob
+    2300056: ST1_1_001
+    2300058: ST1_2_001
+    2300060: ST_001
+    2300062: Steering 0
+    2300064: Steering W
+    2300066: wheel_sr10
+    2300068: wheel_sr1_
+    2300070: wheel_sr20
+    2300072: wheel_sr2_
+    2300074: windscre01
+    2300076: Z#1_001
+    3300000: 1111_001
+    3300002: Body_001
+    3300004: bonnet_ok_
+    3300006: boot_ok_00
+    3300008: bump_fro01
+    3300010: bump_fro02
+    3300012: bump_rea01
+    3300014: chassis_00
+    3300016: D#1_001
+    3300018: door_lf_ok
+    3300020: door_rf_ok
+    3300022: dvorleft_0
+    3300024: dvorright_
+    3300026: Front Sea0
+    3300028: Front Seat
+    3300030: glass_001
+    3300032: Group_001
+    3300034: Group_004
+    3300036: Group_006
+    3300038: Group_009
+    3300040: Group_011
+    3300042: Group_014
+    3300044: Group_016
+    3300046: Group_019
+    3300048: Hand Brake
+    3300050: Plate 049_
+    3300052: Shift Boot
+    3300054: Shift Knob
+    3300056: ST1_1_001
+    3300058: ST1_2_001
+    3300060: ST_001
+    3300062: Steering 0
+    3300064: Steering W
+    3300066: wheel_sr10
+    3300068: wheel_sr1_
+    3300070: wheel_sr20
+    3300072: wheel_sr2_
+    3300074: windscre01
+    3300076: Z#1_001
+    4300000: Steering W
+    4300002: dvorleft_0
+    4300004: dvorright_
+    4300006: 1111_001
+    4300008: ST_001
+    4300010: Z#1_001
+    4300012: D#1_001
+    4300014: Plate 049_
+    4300016: ST1_1_001
+    4300018: wheel_sr2_
+    4300020: wheel_sr1_
+    4300022: wheel_sr2_
+    4300024: glass_001
+    4300026: windscre01
+    4300028: door_lf_ok
+    4300030: door_rf_ok
+    4300032: bump_rea01
+    4300034: boot_ok_00
+    4300036: bonnet_ok_
+    4300038: bump_fro02
+    4300040: bump_fro01
+    4300042: ST1_2_001
+    4300044: chassis_00
+    4300046: Steering 0
+    4300048: Shift Knob
+    4300050: Shift Boot
+    4300052: Hand Brake
+    4300054: Front Seat
+    4300056: Body_001
+    4300058: Group_019
+    4300060: Group_016
+    4300062: Group_019
+    4300064: Group_011
+    4300066: Group_019
+    4300068: Group_006
+    4300070: Group_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

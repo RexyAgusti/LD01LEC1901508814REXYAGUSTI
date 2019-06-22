@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 458aea402c7719149a67248602144158
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 4631b43f788fab5352ad6926b51cae66
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -18.16903, y: 1.5853827, z: -4.111539}
+      lookAt: {x: 2.5419374, y: 1.5853827, z: 0.5341982}
+      up: {x: 8.296663e-18, y: 1, z: 1.8610486e-18}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bumper_f
+    100002: bumper_r
+    100004: chassis
+    100006: door_lf
+    100008: door_rf
+    100010: Group 1
+    100012: Group 12
+    100014: Group 13
+    100016: Group 15
+    100018: Group 17
+    100020: Group 2
+    100022: Group 20
+    100024: Group 21
+    100026: Group 23
+    100028: Group 27
+    100030: Group 28
+    100032: Group 30
+    100034: Group 5
+    100036: Group 6
+    100038: Group 8
+    100040: Image 38
+    100042: interior
+    100044: interior_MeshPart0
+    100046: interior_MeshPart1
+    100048: //RootNode
+    100050: wheel_rf
+    100052: wheel_rf 1
+    100054: wheel_rf 2
+    100056: wheel_rf 3
+    100058: windows
+    400000: bumper_f
+    400002: bumper_r
+    400004: chassis
+    400006: door_lf
+    400008: door_rf
+    400010: Group 1
+    400012: Group 12
+    400014: Group 13
+    400016: Group 15
+    400018: Group 17
+    400020: Group 2
+    400022: Group 20
+    400024: Group 21
+    400026: Group 23
+    400028: Group 27
+    400030: Group 28
+    400032: Group 30
+    400034: Group 5
+    400036: Group 6
+    400038: Group 8
+    400040: Image 38
+    400042: interior
+    400044: interior_MeshPart0
+    400046: interior_MeshPart1
+    400048: //RootNode
+    400050: wheel_rf
+    400052: wheel_rf 1
+    400054: wheel_rf 2
+    400056: wheel_rf 3
+    400058: windows
+    2300000: bumper_f
+    2300002: bumper_r
+    2300004: chassis
+    2300006: door_lf
+    2300008: door_rf
+    2300010: Group 13
+    2300012: Group 15
+    2300014: Group 21
+    2300016: Group 23
+    2300018: Group 28
+    2300020: Group 30
+    2300022: Group 6
+    2300024: Group 8
+    2300026: Image 38
+    2300028: interior_MeshPart0
+    2300030: interior_MeshPart1
+    2300032: wheel_rf
+    2300034: wheel_rf 1
+    2300036: wheel_rf 2
+    2300038: wheel_rf 3
+    2300040: windows
+    3300000: bumper_f
+    3300002: bumper_r
+    3300004: chassis
+    3300006: door_lf
+    3300008: door_rf
+    3300010: Group 13
+    3300012: Group 15
+    3300014: Group 21
+    3300016: Group 23
+    3300018: Group 28
+    3300020: Group 30
+    3300022: Group 6
+    3300024: Group 8
+    3300026: Image 38
+    3300028: interior_MeshPart0
+    3300030: interior_MeshPart1
+    3300032: wheel_rf
+    3300034: wheel_rf 1
+    3300036: wheel_rf 2
+    3300038: wheel_rf 3
+    3300040: windows
+    4300000: Mesh wheel_rf
+    4300002: Mesh Group 6
+    4300004: Mesh Group 8
+    4300006: Mesh interior_MeshPart0
+    4300008: Mesh interior_MeshPart1
+    4300010: Mesh windows
+    4300012: Mesh bumper_f
+    4300014: Mesh bumper_f
+    4300016: Mesh bumper_r
+    4300018: Mesh door_lf
+    4300020: Mesh door_rf
+    4300022: Mesh chassis
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon Fiber
+    second: {fileID: 2100000, guid: 975aad5fbc69e654fa3f4c6730002594, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarbonFiber 2
+    second: {fileID: 2100000, guid: fae4abdce803c6440aa1e2c961a039e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome 02
+    second: {fileID: 2100000, guid: ac60343403561fa4182f955ba07c27c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRAY VELVET UC70214F
+    second: {fileID: 2100000, guid: 4a1ab91afdc4f434dbc4c90c8cea9b2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grill TILED
+    second: {fileID: 2100000, guid: 4bee5b909bc77d244a25ee8238818838, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 27
+    second: {fileID: 2100000, guid: 6d6e896e913ae764abd744a6d346ffe1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tires
+    second: {fileID: 2100000, guid: 2972d9f8364077a4e8001c974465d7bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0021_DarkRed]'
+    second: {fileID: 2100000, guid: 36233bc46ce6b154eb20e24017afd954, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0023_FireBrick]'
+    second: {fileID: 2100000, guid: a4cde0384620fc045b66c2cafe3319b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0024_OrangeRed]'
+    second: {fileID: 2100000, guid: 598a723c48533224d864f4557ebafd8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0045_Goldenrod]'
+    second: {fileID: 2100000, guid: 2103664b5cef6254587765640db5a9fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0046_Gold]'
+    second: {fileID: 2100000, guid: 3f0210472ad7c1c4997930cb8e9dbdaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0074_SeaGreen]'
+    second: {fileID: 2100000, guid: 6a602e7975d70bc42a7b3f35d9b50693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0077_DarkGreen]'
+    second: {fileID: 2100000, guid: 6f956a7d2d57d5d488605be8154d21f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0093_AliceBlue]'
+    second: {fileID: 2100000, guid: a4f4f972e036be04bb3450ad05608424, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0100_SteelBlue]'
+    second: {fileID: 2100000, guid: 697666d8a3b9fc34288dec6492bf571d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0129_WhiteSmoke]'
+    second: {fileID: 2100000, guid: d62386bbe8fb99946849304d9cbd0f3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0130_Gainsboro]'
+    second: {fileID: 2100000, guid: b1bc8c71bf5f13140a5a691e10f9a1e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0131_Silver]'
+    second: {fileID: 2100000, guid: 5f4be42862b17d14ba8941cc438d2f52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0132_LightGray]'
+    second: {fileID: 2100000, guid: 26814083c1c37d14482dff4e88db4ceb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0133_Gray]'
+    second: {fileID: 2100000, guid: 2c742ec8ac4151647a6f5b72761b995f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0134_DimGray]'
+    second: {fileID: 2100000, guid: 2ad54e6a6d1c54b44822d976261f558b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0135_DarkGray]'
+    second: {fileID: 2100000, guid: c311ab912a0a15542ad233850a4f2bd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0136_Charcoal]'
+    second: {fileID: 2100000, guid: dd8d023162e37d5429c8e0f6727d711d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0137_Black]'
+    second: {fileID: 2100000, guid: e12b620f7df72fe4eaa8046058750a4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_A11]'
+    second: {fileID: 2100000, guid: 93aaf7e0e8090474eb71aa00a0282fa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_I25]'
+    second: {fileID: 2100000, guid: 0a96330f29416f5469c08807016d2405, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Fencing_Mesh_Blue]'
+    second: {fileID: 2100000, guid: ae7495f560ef1564999998289c3e5d31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Gray]'
+    second: {fileID: 2100000, guid: 1f68813b6c3cf944aaac61f9e857ea91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: badging [spec]1
+    second: {fileID: 2100000, guid: e1f305898c14dfc408c1829d632385c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carbon fiber1
+    second: {fileID: 2100000, guid: b577cdf4315d5c940baa43cafedc1cf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carbon1 [spec]1
+    second: {fileID: 2100000, guid: 1c2f3c866a03d524d9ebb39492867bed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carbon3 [spec]1
+    second: {fileID: 2100000, guid: 57fa5e8c0bac09d429319c7d4c3f4e34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cockpit [env_7,1
+    second: {fileID: 2100000, guid: f509ba936ab9dc946880ab6bef06618a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lights [spec]1
+    second: {fileID: 2100000, guid: e65bba9ffddf3f84eabcb269222d209d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal [spec]1
+    second: {fileID: 2100000, guid: 0772d7b7f5ee5df488832242b7188ca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: misc [spec]1
+    second: {fileID: 2100000, guid: 8f10d62d4857f6d41a6520340f22350a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: remap [prim,env1
+    second: {fileID: 2100000, guid: 65178be60db6d014fa5e96ddd42b52b4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
